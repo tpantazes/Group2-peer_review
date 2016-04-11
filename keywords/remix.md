@@ -19,8 +19,8 @@ type: book
 Mount Saint Mary's University, Los Angeles | website?
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
