@@ -1,18 +1,6 @@
-# Digital Pedagogy in the Humanities: Concepts, Models, and Experiments
+# Instructions for Peer Review Group
 
-A repository of scholarly materials for *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* (under contract with the Modern Language Association)
-
-## General Editors
-
-* Rebecca Frost Davis, St. Edward's University
-* Matthew K. Gold, The Graduate Center, City University of New York
-* Katherine D. Harris, San José State University
-* Jentery Sayers, University of Victoria
-
-## Hashtag
-
-[\#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash "hashtag")
-
-## FAQ
-
-See [this page](faq.md).
+1. Open the Keywords folder and click on the file labeled remix.md  
+2. Click on the edit button (a pencil in the gray menu bar) at the top of the screen  
+3. In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**
+4. Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions.
