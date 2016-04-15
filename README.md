@@ -9,10 +9,14 @@ As you are working through this demonstration, please keep the instructions open
 
 ## Instructions
 
-1. Open the Keywords folder (above if you are viewing this in a browser) and click on the file labeled remix.md  
-2. Scroll through the file and look to see how the article is laid out. Notice that the current status of the article is presented in the first section.
+1. If you haven't yet, please create a GitHub account.
+2. Open the Keywords folder (above if you are viewing this in a browser) and click on the file labeled remix.md  
+3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 ![screenshot](keywords/images/draftStatus-Screenshot.png)
-3. Click on the edit button (a pencil in the gray menu bar) at the top of the screen
+The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
+4. Click on the edit button (a pencil in the gray menu bar) at the top of the screen
 ![screenshot](keywords/images/gitEdit-Screenshot.png)
-3. In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**
-4. Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
+Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
+5. In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. You can use <code>*</code>
+6. Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
+7. 
