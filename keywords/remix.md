@@ -19,8 +19,8 @@ type: book
 Mount Saint Mary's University, Los Angeles | website?
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
@@ -31,6 +31,8 @@ Mount Saint Mary's University, Los Angeles | website?
 At its most deceptively simple, remix is nothing more than the act of identifying existing materials, and altering and combining them to create something new. If you've used the internet or listened to music in the past 40 years, you've experienced a remix, and it's fair to say that our students have grown up with them. Remix objects (songs, memes, mashups, etc.) are now so deeply embedded in our collective consciousness and daily media consumption that their existence as representatives of a digital culture with its own protocols, politics, aesthetics and audiences is practically invisible.	
 
 Where did remix come from? Scholars point to the overlapping histories of collage in visual art, cut-ups in literature, found footage assemblage in film. The most popular antecedent of remix lies in the sound subcultures of New York City in the 1970s (e.g., disco, hip hop). There, DJs looped a song to extend it, or extracted small samples of tracks and reassembled them to serve as the basis for an entirely different composition. Whether the medium was audio, video, text, or some combination of these, practitioners used similar approaches to modify and reassemble materials to suit the tastes of their tribes, therein extending the definition of authorship for community engagement. Twentieth century technologies, in the meantime, evolved from analog to digital modes, making the foundational practices of remix--cut, paste, layer, juxtapose--available to extraordinary numbers of amateurs and artists. For all of the simplicity of those functions, however, the sudden accessibility of remix practices also encoded an array of complex implications belied by the "pop" face of remix. As Julie Levin Russo and Francesca Coppa explain in their analysis of fan video: "Technological innovations and Internet platforms support a developing ecology of [video] remix forms with unprecedented reach, richness, and cultural influence. At the same time, the value and legitimacy of this popular production is hotly contested on the basis of artistic merit, traditional literacies, and intellectual property" (1.2).
+
+tompantazes: consider the idea that all innovation is built upon taking previous itterations and making minor changes - a variation of this idea of remix
 
 Simultaneously pervasive and controversial, remix emerged as a fundamental vernacular practice that requires defense. Law professor and activist Lawrence Lessig situates the right to remix as "a critical expression of creative freedom that . . . no free society should restrict" (56). He defends this bold claim by placing remix at the center of a culture in which citizens have the ability not only to consume cultural artifacts made by professionals, but to contribute to the culture by creating and re-creating what is around them. Like Lessig, Media Studies scholar Henry Jenkins identifies this phenomenon as "participatory culture" wherein individuals and affinity groups "archive, annotate, appropriate, and recirculate media content in powerful new ways." For Jenkins, these extant participatory practices suggest a set of goals for those coming of age in this era: "encourage youths to develop the skills, knowledge, ethical frameworks, and self-confidence needed to be full participants in contemporary culture" (8-9). The exuberance of both scholars (and many more like them) is tempered by the significant challenges to remix as civic engagement"--most notably, the corporate and governmental insistence on legal copyright as imprimatur of a work's ownership, which prevents its use as a source for new work. 
 
